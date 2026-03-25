@@ -1,4 +1,4 @@
-kocha = "Bog'bon"
+kocha = "Bunyodkor"
 mahalla = "Sog'bon"
 tuman = "Bodomzor"
 viloyat = "Samarqand"
